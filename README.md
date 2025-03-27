@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hakzen
-- 👀 I’m interested in exploring C++
-- 🌱 I’m currently learning how to use react native 
+- 👀 I’m interested in exploring JavaScript
+- 🌱 I’m currently learning how to use Javascript
 - 📫 How to reach me mickeyolayvar137@gmail.com 
 
 <!---
